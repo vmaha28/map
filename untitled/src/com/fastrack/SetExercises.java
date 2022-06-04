@@ -10,6 +10,6 @@ public class SetExercises {
         set.add(4L);
         System.out.println(set);
 
-        set.
+
     }
 }
